@@ -1,0 +1,429 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2024-01-21 22:07:22",
+  "files": {
+    "C:\\Users\\0_0\\source\\repos\\engineerium_task_cpp\\engineerium_task_cpp.vcxproj": {
+      "before": "7VnbbttGEM1rA+QH+kQQLmQ/WJSvqWuKQSI5hlD5UsuXlwLGihxJjEkusbt07Db9gv50h9wLRZlyLLi108AGLIC7M7uzhzNnZpZ///jqlfvuJo6sa2A8pEnbXmu2bAsSnwZhMm7bmRit/my/8968do8Z/QS+sLowIlkkTgkbg+Bt+0MWRoFt4SoJPk2ESH9xHO5PICa8GYc+o5yORNOnsRPANUQ0BebEfJirOeut1oaNq1uW2xMQ7zOapVafDCFq22rDDk1G4ThjRKCBXAqjeN2s1Uv8KAugbXdhmI2/XITJxrrWQJ3KUl4h4zrVwdyU/M89jogYURZ7xSKuY56lBA5IPOrUv2LcCURAOHzFPCX1HAZK9G62Nx+LHS7xnyB3n2kPxm1B41zHeKh0WHQAdGVxW3Ha/YgOSVS66XlH+cm5jDBv7W2z5Tp3hpVX/Qq3nykLpNPlmq6jh5SEWm4/CwPvT39ne8cPyPbq2s72cHWztTNc3dki+PN2O2gNW/4m2dr6y7hqoaOWOaFUHJIYeEp88CAZhwkAC7NYEH7lp6nrVCWUGgZDQD9zGfw6JMzRWvnR7hV58/oHVx/oN7F1PrhGwqmesTC3BFaRQ5xSJix1+La9tHzeUQx0TMRk5fcDQzSdNG0qjmqm+Iq4bTl1LwwDNwhzTmnbjaXlShivfFla1odbabTbjSk6adianyoqOlKqHHN6m4L3Pk2j0C/oayaYi2mF7BmHYpd+OGSEhcA9wTJwnbvj2hEUQZ1SGnEQ3vXa5kYZbHpUCXcmhBFfABug5FkSIr/j2pXRXLIWewS9fB3WIrBViO7pgBthAP5ryF1MaAQIwZiR+CgVYRz+UbxK9XrmTj8r8IbAnw7078dbMS88HWzfi6/2FiPoKjFL5Uoe3bsRkOQlKRKWwFJUZVRMwsVGhex0aqgoD5DtIJCU/DANzXGDCWBRay/EcpXkUNiERHoXDyRylufUbshm09VUtmlmKKbz1hTXwk3IBV/GTLXwOo0Vk7L61CcR5qMuEUQnOJMeHwTtY4CaSQcvUJm2Zk7BUTDRC0zzYdIe9f0BpeOswmt56B+QvKM2QZv3JFjthklRykrpKdpYrLLVrtaJOjROwwjUAPLZBWEJ0nA/7+C94heLzcqgLHhQdNDtdybgX6kKyTwagWMGyP8+cE5ZaTv3LnqHG+u7l929D2f7u5edo8PBUX9v96flOfIrebVav5LZKq/RsYkniQ8HWPIqk2ZHVa3mzJ7b7YfJVYnBIBsObjkC7uECHMtC1ymHzJb7kABeVshqvie3z9sMtffcaW2E2VM2nCVA0znvkW9dx01xt9Eoe5dHvfePWeLnBy28Iz8F+os6dO2UQayXCBZisve1mO59aiaMknErWXiaRyMwzzeklx3+z71sLyHDCDpHB933px9plN/WKazrZgwoqoOBExgBw2s+02bWTBiluS4roZ87LRdwnafw6KmO55lZ7IW/FGc+AX9V8v4sey+WtTT3fOPs9cJb3x5vlYkZXc54YfkxYup29TK/Xr3E+9Um/usirl7rFCXXHia2/jCxjWkxGZ2l6TUd671XrEJ+/9FnUOqyAFUfcEwPr25q6xvy4s4x/7Lk/QM=",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2024-01-21 22:07:22</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\0_0\source\repos\engineerium_task_cpp\engineerium_task_cpp.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--Hpa7Jz1IH+87MZXrjbwp56BSb6+HT4sqWpFbSTja6oI=-->
